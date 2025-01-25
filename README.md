@@ -31,7 +31,7 @@ pip install neuro-db
 ### **1. Configure your databases**  
 
 ```python
-from neuro_db import DatabaseManager
+from neurodb import DatabaseManager
 
 db_configs = {
     "postgres_main": {
