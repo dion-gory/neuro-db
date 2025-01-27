@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .idea/
+database_config_files/mysql_localhost.json
